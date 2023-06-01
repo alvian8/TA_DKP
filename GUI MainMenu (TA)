@@ -156,7 +156,7 @@ public class MainMenu extends javax.swing.JFrame {
     }                                    
 
     private void LDListActionPerformed(java.awt.event.ActionEvent evt) {                                       
-        new TDL().setVisible(true);
+        new ToDoList().setVisible(true);
         this.dispose();
     }                                      
 
